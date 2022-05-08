@@ -32,9 +32,9 @@ This repository contains:
 
 ## How we built it
 
-We adapted the Bullhorn-staffing dashboard API for hosting IT jobs. We chose it mainly due to its modern appearance and its implementation in Angular.js, because we value its wide adoption and the availability of libraries, that allowed us to create a demo to improve upon using explained ideas. In parallel, we started working on the recommendation algorithm and it's implementation in python using heaps.
+We adapted the Bullhorn-staffing dashboard API for hosting IT jobs. We chose it mainly due to its modern appearance and its implementation in Angular.js, because we value its wide adoption and the availability of libraries, that allowed us to create a demo to improve upon using explained ideas. In parallel, we started working on the recommendation algorithm and its implementation in Python using heaps.
 
-To better understand the API, we used the curl command and Postman to perform 'GET' http requests. After failing to integrate it with Angular.js, we implemented a python backend using the fastapi library.
+To better understand the API, we used the curl command and Postman to perform 'GET' http requests. After failing to integrate it with Angular.js, we implemented a Python backend using the fastapi library.
 
 We started building a form for users to input their skills and obtain recommendations by the algorithm.
 
